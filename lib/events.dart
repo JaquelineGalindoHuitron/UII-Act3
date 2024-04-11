@@ -16,7 +16,7 @@ class _EventsPageState extends State<EventsPage> {
           'Jaqueline Galindo Huitron',
           style: TextStyle(
             fontSize: 38,
-            color: Color(0xff042c9a),
+            color: Color(0xff003b72),
           ),
         ),
         Container(

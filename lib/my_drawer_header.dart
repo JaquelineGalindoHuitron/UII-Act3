@@ -33,7 +33,7 @@ class _MyHeaderDrawerState extends State<MyHeaderDrawer> {
           Text(
             "spacenter@gmail.com",
             style: TextStyle(
-              color: Colors.grey[200],
+              color: Color(0xffe1e1e1),
               fontSize: 14,
             ),
           ),

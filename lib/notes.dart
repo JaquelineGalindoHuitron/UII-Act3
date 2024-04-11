@@ -82,7 +82,7 @@ class Textos extends StatelessWidget {
           'Jaqueline Galindo Huitron',
           style: TextStyle(
             fontSize: 38,
-            color: Color(0xffeceff1),
+            color: Color(0xffeaeaea),
           ),
         ),
         Text(

@@ -58,7 +58,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color(0xff73bfe1),
-        title: Text("Drawer Pages"),
+        title: Text("Drawer Paginas"),
       ),
       body: container,
       drawer: Drawer(

@@ -11,7 +11,7 @@ class DashboardPage extends StatelessWidget {
               'Jaqueline Galindo Aterrizando',
               style: TextStyle(
                 fontSize: 38,
-                color: Color(0xFF04589A),
+                color: Color(0xff003b72),
               ),
             ),
             Align(
